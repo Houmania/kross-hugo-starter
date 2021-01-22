@@ -28,7 +28,7 @@ sections:
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: content/contact
+  path: contact
   label: Contact
   create: none
   match: "*"
